@@ -3,13 +3,6 @@
 <p align="center">Aplicativo desenvolvido na Maratona Discovery Rocketseat</p>
 
 
-
-
-
-
-
-
-
 <img src="captura.png">
 
 <h2 align="center">App finalizado</h2>
