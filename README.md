@@ -2,14 +2,11 @@
 
 Aplicativo desenvolvido na Maratona Discovery Rocketseat</p>
 
-
 <img src="captura.png">
 
 <h2 align="center">App finalizado</h2>
 
-<img src="../assets/captura.gif">
-
-
+<img src="./assets/captura.gif">
 
 <h3>Objetivo</h3>
 
@@ -21,19 +18,9 @@ A apicação web que tem como principal finalidade a informação sobre o contro
 
 A informação e controle financeiro é primordial para qualquer pessoa, sendo assim, utilize o palicativo de forma a aproveitar suas funcionalidades.
 
-
-
-
-
-
-
 <h3>Tecnologias</h3>
 
-
-
 Tecnologias utilizadas na construção do aplicativo:
-
-
 
 \- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
@@ -42,16 +29,7 @@ Tecnologias utilizadas na construção do aplicativo:
 \- [JavaScrit](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 
-
-<p align="center">
-
-
-<h3>
-
-
 Aplicativo finalizado e conhecimento fixado.
-
-
 
 Desenvolvido por: Cezar Amorim
 
