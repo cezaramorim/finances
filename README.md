@@ -9,13 +9,13 @@
 
 <h3>Objetivo</h3>
 
-O objetivo na criação do aplicativo dev.finance$ tem exclusivamente a finalizade de fixação do conhecimento adquirido nos cursos rápidos e gratuitos da plataforma Rocketseat.
+O objetivo na criação do aplicativo dev.finance$ tem exclusiva finalizade de fixação do conhecimento adquirido nos cursos rápidos e gratuitos da plataforma Rocketseat.
 
 <h3>Finalidade</h3>
 
-A apicação web que tem como principal finalidade a informação sobre o controle financeiro pessoal. Através dos lançamentos das despesas e recebimentos, o aplicativo armazena as informações e realiza o cálculo entre entradas e saídas de capital e informa o saldo, sendo positivo ou negativo.
+A aplicação web que tem como principal finalidade a informação sobre o controle financeiro pessoal. Através dos lançamentos das despesas e recebimentos, o aplicativo armazena as informações e realiza o cálculo entre entradas e saídas de capital e informa o saldo, sendo positivo ou negativo.
 
-A informação e controle financeiro é primordial para qualquer pessoa, sendo assim, utilize o palicativo de forma a aproveitar suas funcionalidades.
+A informação e controle financeiro é primordial para qualquer pessoa, sendo assim, utilize o palicativo de forma a aproveitar suas funcionalidades de forma gratuita e com as funcionalidades disponíveis.
 
 <h3>Tecnologias</h3>
 
