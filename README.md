@@ -34,4 +34,3 @@ Aplicativo finalizado e conhecimento fixado.
 Desenvolvido por: Cezar Amorim
 
 cezar.dba@gmail.com
-# finances
