@@ -1,13 +1,13 @@
 **### Dev.Finance$**
 
-<p align="center">Aplicativo desenvolvido na Maratona Discovery Rocketseat</p>
+Aplicativo desenvolvido na Maratona Discovery Rocketseat</p>
 
 
 <img src="captura.png">
 
 <h2 align="center">App finalizado</h2>
 
-
+<img src="../assets/captura.gif">
 
 
 
