@@ -1,7 +1,5 @@
-**### Dev.Finance$**
-
 <h1>Aplicativo Dev.finances$</h1>
-<h2>desenvolvido na Maratona Discovery Rocketseat</h2>
+<h2>Desenvolvido na Maratona Discovery Rocketseat</h2>
 
 <img src="./assets/captura.png">
 
@@ -32,5 +30,4 @@ Tecnologias utilizadas na construção do aplicativo:
 
 Aplicativo finalizado e conhecimento fixado.
 
-Desenvolvido por: Cezar Amorim
-cezar.dba@gmail.com
+Desenvolvido por: Cezar Amorim - cezar.dba@gmail.com
